@@ -1,0 +1,6 @@
+#homecont {
+    height: calc(100vh - 56px - 56px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

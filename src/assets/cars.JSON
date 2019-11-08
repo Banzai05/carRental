@@ -1,0 +1,22 @@
+{
+    "car1": {
+        "mark": "Nissan",
+        "model": "240sx",
+        "status": "available"
+    },
+    "car2": {
+        "mark": "Toyota",
+        "model": "AE86",
+        "status": "unavailable"
+    },
+    "car3": {
+        "mark": "Mitsubishi",
+        "model": "EVO III",
+        "status": "available"
+    },
+    "car4": {
+        "mark": "Mazda",
+        "model": "Rx7",
+        "status": "unavailable"
+    }
+}
